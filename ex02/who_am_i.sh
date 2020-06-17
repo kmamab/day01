@@ -1,1 +1,3 @@
-ldapwhoami -D -X dn:<who am i?>
+#!/bin/sh
+
+ldapwhoami
