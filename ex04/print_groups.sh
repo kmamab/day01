@@ -1,5 +1,5 @@
 #!bin/sh
 
-jjdjd,dhdgdh,dhdgd
+groups $FT_USER
 
 
